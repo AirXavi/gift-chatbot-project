@@ -10,3 +10,6 @@ backend/.env
 
 # System files
 .DS_Store
+
+#env file ignore
+.env
